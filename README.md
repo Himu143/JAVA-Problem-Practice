@@ -1,4 +1,4 @@
-# JAVA-Problem to solve
+# JAVA Problems to solve
 1. Print prime numbers form 2 to 100
 2. Write a program that will count number of notes from given array
    [1000,500,200,100,50,20,10,5,2,1]
